@@ -2,7 +2,7 @@
 
 A responsive **Arabic (right-to-left)** personal-finance dashboard built with **HTML5 and CSS3 only**, with no frameworks and no JavaScript.
 
-🔗 **Live demo:** https://fadytareksamir.github.io/mudabbir-dashboard/
+🔗 **Live demo:** https://fadytareksamir.github.io/Mudabbir-dashboard/
 
 ![Desktop screenshot](screenshots/desktop.png)
 
